@@ -1,0 +1,23 @@
+h1, h2,h3, p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.food-img-wrapper {
+    height:300px;
+    width:300px;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.food-img{
+    height:100%;
+    width:100%;
+    object-fit: cover;
+}
+
+
+.food-item {
+   border:1px solid #ccc;
+padding: 10px;
+margin: 5px 10px 5px 10px; 
+}
